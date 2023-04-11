@@ -1,3 +1,5 @@
 This project, called "Gihápon: An Interactive Multi-Ending Visual Novel Adventure Game," and its corresponding documentation have been submitted to the College of Information and Communications Technology at West Visayas State University as part of the requirements for a Bachelor of Science in Entertainment and Multimedia Computing. 
 
 The project is the result of the researchers' work, with the exception of any explicitly credited sources. The researchers give the College of Information and Communications Technology permission to use, reproduce, publish in local and international journals/conferences, or distribute copies of this project and its documentation, in whole or in part, as long as the researchers are acknowledged.
+
+More to come
